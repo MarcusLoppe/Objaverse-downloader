@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/google-deepmind/objaverse_annotations.git
+	branch = main
+	commit = 7f45d4eb6cb09e0873dc6013ab9d86a8fed160b1
+	parent = 51b383c22f18ac1779de97b6c4113d4c0e5a2549
+	method = merge
+	cmdver = 0.4.6
